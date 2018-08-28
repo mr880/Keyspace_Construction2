@@ -1,0 +1,945 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fileIndex>
+	<word text="And">
+		<file name="reagan.txt">1</file>
+	</word>
+	<word text="Another">
+		<file name="test3.txt">1</file>
+	</word>
+	<word text="But">
+		<file name="gettysburg.txt">3</file>
+		<file name="reagan.txt">2</file>
+	</word>
+	<word text="Challenger">
+		<file name="reagan.txt">2</file>
+	</word>
+	<word text="Christa">
+		<file name="reagan.txt">1</file>
+	</word>
+	<word text="Dick">
+		<file name="reagan.txt">1</file>
+	</word>
+	<word text="Duis">
+		<file name="Lorem.txt">1</file>
+	</word>
+	<word text="Ellison">
+		<file name="reagan.txt">1</file>
+	</word>
+	<word text="Excepteur">
+		<file name="Lorem.txt">1</file>
+	</word>
+	<word text="Four">
+		<file name="gettysburg.txt">3</file>
+	</word>
+	<word text="God">
+		<file name="gettysburg.txt">3</file>
+	</word>
+	<word text="Good">
+		<file name="test3.txt">1</file>
+	</word>
+	<word text="Gregory">
+		<file name="reagan.txt">1</file>
+	</word>
+	<word text="I">
+		<file name="reagan.txt">1</file>
+	</word>
+	<word text="Ib">
+		<file name="test3.txt">1</file>
+	</word>
+	<word text="It">
+		<file name="gettysburg.txt">9</file>
+	</word>
+	<word text="Jarvis">
+		<file name="reagan.txt">1</file>
+	</word>
+	<word text="Judith">
+		<file name="reagan.txt">1</file>
+	</word>
+	<word text="Liberty">
+		<file name="gettysburg.txt">3</file>
+	</word>
+	<word text="Lorem">
+		<file name="Lorem.txt">1</file>
+	</word>
+	<word text="McAuliffe">
+		<file name="reagan.txt">1</file>
+	</word>
+	<word text="McNair">
+		<file name="reagan.txt">1</file>
+	</word>
+	<word text="Michael">
+		<file name="reagan.txt">1</file>
+	</word>
+	<word text="Nancy">
+		<file name="reagan.txt">1</file>
+	</word>
+	<word text="Nineteen">
+		<file name="reagan.txt">1</file>
+	</word>
+	<word text="Now">
+		<file name="gettysburg.txt">3</file>
+	</word>
+	<word text="Onizuka">
+		<file name="reagan.txt">1</file>
+	</word>
+	<word text="Resnik">
+		<file name="reagan.txt">1</file>
+	</word>
+	<word text="Ronald">
+		<file name="reagan.txt">1</file>
+	</word>
+	<word text="Scobee">
+		<file name="reagan.txt">1</file>
+	</word>
+	<word text="Seven">
+		<file name="reagan.txt">1</file>
+	</word>
+	<word text="Smith">
+		<file name="reagan.txt">1</file>
+	</word>
+	<word text="The">
+		<file name="gettysburg.txt">6</file>
+	</word>
+	<word text="This">
+		<file name="reagan.txt">1</file>
+	</word>
+	<word text="Today">
+		<file name="reagan.txt">1</file>
+	</word>
+	<word text="Ut">
+		<file name="Lorem.txt">1</file>
+	</word>
+	<word text="We">
+		<file name="gettysburg.txt">6</file>
+		<file name="reagan.txt">4</file>
+	</word>
+	<word text="a">
+		<file name="gettysburg.txt">21</file>
+		<file name="reagan.txt">5</file>
+		<file name="test.txt">1</file>
+	</word>
+	<word text="above">
+		<file name="gettysburg.txt">3</file>
+	</word>
+	<word text="accident">
+		<file name="reagan.txt">1</file>
+	</word>
+	<word text="ad">
+		<file name="Lorem.txt">1</file>
+	</word>
+	<word text="add">
+		<file name="gettysburg.txt">3</file>
+	</word>
+	<word text="adipiscing">
+		<file name="Lorem.txt">1</file>
+	</word>
+	<word text="advanced">
+		<file name="gettysburg.txt">3</file>
+	</word>
+	<word text="ago">
+		<file name="gettysburg.txt">3</file>
+		<file name="reagan.txt">1</file>
+	</word>
+	<word text="aliqua">
+		<file name="Lorem.txt">1</file>
+	</word>
+	<word text="aliquip">
+		<file name="Lorem.txt">1</file>
+	</word>
+	<word text="all">
+		<file name="gettysburg.txt">3</file>
+		<file name="reagan.txt">1</file>
+	</word>
+	<word text="almost">
+		<file name="reagan.txt">1</file>
+	</word>
+	<word text="altogether">
+		<file name="gettysburg.txt">3</file>
+	</word>
+	<word text="amet">
+		<file name="Lorem.txt">1</file>
+	</word>
+	<word text="an">
+		<file name="test.txt">1</file>
+		<file name="reagan.txt">1</file>
+	</word>
+	<word text="and">
+		<file name="gettysburg.txt">18</file>
+		<file name="stuff.txt">4</file>
+		<file name="reagan.txt">4</file>
+	</word>
+	<word text="anim">
+		<file name="Lorem.txt">1</file>
+	</word>
+	<word text="another">
+		<file name="test2.txt">1</file>
+	</word>
+	<word text="any">
+		<file name="gettysburg.txt">3</file>
+	</word>
+	<word text="are">
+		<file name="gettysburg.txt">9</file>
+		<file name="reagan.txt">1</file>
+	</word>
+	<word text="as">
+		<file name="gettysburg.txt">3</file>
+		<file name="reagan.txt">1</file>
+	</word>
+	<word text="astronaut">
+		<file name="reagan.txt">1</file>
+	</word>
+	<word text="astronauts">
+		<file name="reagan.txt">1</file>
+	</word>
+	<word text="aute">
+		<file name="Lorem.txt">1</file>
+	</word>
+	<word text="aware">
+		<file name="reagan.txt">1</file>
+	</word>
+	<word text="b">
+		<file name="reagan.txt">1</file>
+	</word>
+	<word text="battle">
+		<file name="gettysburg.txt">3</file>
+	</word>
+	<word text="be">
+		<file name="gettysburg.txt">6</file>
+	</word>
+	<word text="before">
+		<file name="gettysburg.txt">3</file>
+	</word>
+	<word text="birth">
+		<file name="gettysburg.txt">3</file>
+	</word>
+	<word text="brave">
+		<file name="gettysburg.txt">3</file>
+	</word>
+	<word text="brilliantly">
+		<file name="reagan.txt">1</file>
+	</word>
+	<word text="brought">
+		<file name="gettysburg.txt">3</file>
+	</word>
+	<word text="but">
+		<file name="gettysburg.txt">3</file>
+		<file name="reagan.txt">1</file>
+	</word>
+	<word text="by">
+		<file name="gettysburg.txt">3</file>
+		<file name="reagan.txt">1</file>
+	</word>
+	<word text="can">
+		<file name="gettysburg.txt">15</file>
+		<file name="test2.txt">1</file>
+	</word>
+	<word text="cause">
+		<file name="gettysburg.txt">3</file>
+	</word>
+	<word text="cillum">
+		<file name="Lorem.txt">1</file>
+	</word>
+	<word text="civil">
+		<file name="gettysburg.txt">3</file>
+	</word>
+	<word text="come">
+		<file name="gettysburg.txt">3</file>
+	</word>
+	<word text="commodo">
+		<file name="Lorem.txt">1</file>
+	</word>
+	<word text="conceived">
+		<file name="gettysburg.txt">6</file>
+	</word>
+	<word text="consecrate">
+		<file name="gettysburg.txt">3</file>
+	</word>
+	<word text="consecrated">
+		<file name="gettysburg.txt">3</file>
+	</word>
+	<word text="consectetur">
+		<file name="Lorem.txt">1</file>
+	</word>
+	<word text="consequat">
+		<file name="Lorem.txt">1</file>
+	</word>
+	<word text="continent">
+		<file name="gettysburg.txt">3</file>
+	</word>
+	<word text="core">
+		<file name="reagan.txt">1</file>
+	</word>
+	<word text="country">
+		<file name="reagan.txt">1</file>
+	</word>
+	<word text="courage">
+		<file name="reagan.txt">1</file>
+	</word>
+	<word text="created">
+		<file name="gettysburg.txt">3</file>
+	</word>
+	<word text="crew">
+		<file name="reagan.txt">1</file>
+	</word>
+	<word text="culpa">
+		<file name="Lorem.txt">1</file>
+	</word>
+	<word text="cupidatat">
+		<file name="Lorem.txt">1</file>
+	</word>
+	<word text="dangers">
+		<file name="reagan.txt">1</file>
+	</word>
+	<word text="day">
+		<file name="reagan.txt">2</file>
+	</word>
+	<word text="dead">
+		<file name="gettysburg.txt">9</file>
+	</word>
+	<word text="dedicate">
+		<file name="gettysburg.txt">6</file>
+	</word>
+	<word text="dedicated">
+		<file name="gettysburg.txt">12</file>
+	</word>
+	<word text="deserunt">
+		<file name="Lorem.txt">1</file>
+	</word>
+	<word text="detract">
+		<file name="gettysburg.txt">3</file>
+	</word>
+	<word text="devotion">
+		<file name="gettysburg.txt">6</file>
+	</word>
+	<word text="did">
+		<file name="gettysburg.txt">3</file>
+		<file name="reagan.txt">1</file>
+	</word>
+	<word text="died">
+		<file name="gettysburg.txt">3</file>
+	</word>
+	<word text="do">
+		<file name="gettysburg.txt">3</file>
+		<file name="Lorem.txt">1</file>
+	</word>
+	<word text="dolor">
+		<file name="Lorem.txt">2</file>
+	</word>
+	<word text="dolore">
+		<file name="Lorem.txt">2</file>
+	</word>
+	<word text="ea">
+		<file name="Lorem.txt">1</file>
+	</word>
+	<word text="earth">
+		<file name="gettysburg.txt">3</file>
+	</word>
+	<word text="eiusmod">
+		<file name="Lorem.txt">1</file>
+	</word>
+	<word text="elit">
+		<file name="Lorem.txt">1</file>
+	</word>
+	<word text="endure">
+		<file name="gettysburg.txt">3</file>
+	</word>
+	<word text="engaged">
+		<file name="gettysburg.txt">3</file>
+	</word>
+	<word text="enim">
+		<file name="Lorem.txt">1</file>
+	</word>
+	<word text="equal">
+		<file name="gettysburg.txt">3</file>
+	</word>
+	<word text="esse">
+		<file name="Lorem.txt">1</file>
+	</word>
+	<word text="est">
+		<file name="Lorem.txt">1</file>
+	</word>
+	<word text="et">
+		<file name="Lorem.txt">1</file>
+	</word>
+	<word text="eu">
+		<file name="Lorem.txt">1</file>
+	</word>
+	<word text="ex">
+		<file name="Lorem.txt">1</file>
+	</word>
+	<word text="example">
+		<file name="test.txt">1</file>
+	</word>
+	<word text="exercitation">
+		<file name="Lorem.txt">1</file>
+	</word>
+	<word text="far">
+		<file name="gettysburg.txt">6</file>
+	</word>
+	<word text="fathers">
+		<file name="gettysburg.txt">3</file>
+	</word>
+	<word text="field">
+		<file name="gettysburg.txt">6</file>
+	</word>
+	<word text="file">
+		<file name="test.txt">1</file>
+		<file name="test3.txt">1</file>
+		<file name="test2.txt">1</file>
+	</word>
+	<word text="final">
+		<file name="gettysburg.txt">3</file>
+	</word>
+	<word text="fitting">
+		<file name="gettysburg.txt">3</file>
+	</word>
+	<word text="flight">
+		<file name="reagan.txt">1</file>
+	</word>
+	<word text="for">
+		<file name="gettysburg.txt">15</file>
+		<file name="reagan.txt">2</file>
+		<file name="test3.txt">1</file>
+		<file name="test2.txt">1</file>
+	</word>
+	<word text="forget">
+		<file name="gettysburg.txt">3</file>
+	</word>
+	<word text="forgotten">
+		<file name="reagan.txt">1</file>
+	</word>
+	<word text="forth">
+		<file name="gettysburg.txt">3</file>
+	</word>
+	<word text="fought">
+		<file name="gettysburg.txt">3</file>
+	</word>
+	<word text="freedom">
+		<file name="gettysburg.txt">3</file>
+	</word>
+	<word text="from">
+		<file name="gettysburg.txt">6</file>
+	</word>
+	<word text="fugiat">
+		<file name="Lorem.txt">1</file>
+	</word>
+	<word text="full">
+		<file name="gettysburg.txt">3</file>
+	</word>
+	<word text="gave">
+		<file name="gettysburg.txt">6</file>
+	</word>
+	<word text="getting">
+		<file name="test3.txt">1</file>
+	</word>
+	<word text="got">
+		<file name="abc.txt">1</file>
+	</word>
+	<word text="government">
+		<file name="gettysburg.txt">3</file>
+	</word>
+	<word text="great">
+		<file name="gettysburg.txt">9</file>
+	</word>
+	<word text="ground">
+		<file name="gettysburg.txt">3</file>
+		<file name="reagan.txt">1</file>
+	</word>
+	<word text="h">
+		<file name="stuff.txt">1</file>
+	</word>
+	<word text="had">
+		<file name="reagan.txt">1</file>
+	</word>
+	<word text="hahahahahaha">
+		<file name="stuff.txt">1</file>
+	</word>
+	<word text="hallow">
+		<file name="gettysburg.txt">3</file>
+	</word>
+	<word text="have">
+		<file name="gettysburg.txt">15</file>
+	</word>
+	<word text="here">
+		<file name="gettysburg.txt">24</file>
+	</word>
+	<word text="heroes">
+		<file name="reagan.txt">1</file>
+	</word>
+	<word text="highly">
+		<file name="gettysburg.txt">3</file>
+	</word>
+	<word text="honored">
+		<file name="gettysburg.txt">3</file>
+	</word>
+	<word text="i">
+		<file name="abc.txt">1</file>
+	</word>
+	<word text="id">
+		<file name="Lorem.txt">1</file>
+	</word>
+	<word text="in">
+		<file name="gettysburg.txt">12</file>
+		<file name="Lorem.txt">3</file>
+		<file name="reagan.txt">2</file>
+	</word>
+	<word text="incididunt">
+		<file name="Lorem.txt">1</file>
+	</word>
+	<word text="increased">
+		<file name="gettysburg.txt">3</file>
+	</word>
+	<word text="institute">
+		<file name="abc.txt">1</file>
+	</word>
+	<word text="into">
+		<file name="abc.txt">1</file>
+	</word>
+	<word text="ipsum">
+		<file name="Lorem.txt">1</file>
+	</word>
+	<word text="irure">
+		<file name="Lorem.txt">1</file>
+	</word>
+	<word text="is">
+		<file name="gettysburg.txt">9</file>
+		<file name="reagan.txt">2</file>
+		<file name="test.txt">1</file>
+		<file name="test3.txt">1</file>
+	</word>
+	<word text="it">
+		<file name="gettysburg.txt">6</file>
+		<file name="reagan.txt">1</file>
+	</word>
+	<word text="jobs">
+		<file name="reagan.txt">1</file>
+	</word>
+	<word text="know">
+		<file name="reagan.txt">1</file>
+	</word>
+	<word text="labore">
+		<file name="Lorem.txt">1</file>
+	</word>
+	<word text="laboris">
+		<file name="Lorem.txt">1</file>
+	</word>
+	<word text="laborum">
+		<file name="Lorem.txt">1</file>
+	</word>
+	<word text="larger">
+		<file name="gettysburg.txt">3</file>
+	</word>
+	<word text="last">
+		<file name="gettysburg.txt">3</file>
+	</word>
+	<word text="like">
+		<file name="reagan.txt">1</file>
+	</word>
+	<word text="little">
+		<file name="gettysburg.txt">3</file>
+	</word>
+	<word text="live">
+		<file name="gettysburg.txt">3</file>
+	</word>
+	<word text="lives">
+		<file name="gettysburg.txt">3</file>
+	</word>
+	<word text="living">
+		<file name="gettysburg.txt">6</file>
+	</word>
+	<word text="long">
+		<file name="gettysburg.txt">6</file>
+	</word>
+	<word text="look">
+		<file name="test2.txt">1</file>
+	</word>
+	<word text="loss">
+		<file name="reagan.txt">2</file>
+	</word>
+	<word text="lost">
+		<file name="reagan.txt">2</file>
+	</word>
+	<word text="luck">
+		<file name="test3.txt">1</file>
+	</word>
+	<word text="magna">
+		<file name="Lorem.txt">1</file>
+	</word>
+	<word text="measure">
+		<file name="gettysburg.txt">3</file>
+	</word>
+	<word text="men">
+		<file name="gettysburg.txt">6</file>
+	</word>
+	<word text="met">
+		<file name="gettysburg.txt">3</file>
+	</word>
+	<word text="might">
+		<file name="gettysburg.txt">3</file>
+	</word>
+	<word text="minim">
+		<file name="Lorem.txt">1</file>
+	</word>
+	<word text="mollit">
+		<file name="Lorem.txt">1</file>
+	</word>
+	<word text="mourn">
+		<file name="reagan.txt">2</file>
+	</word>
+	<word text="mourning">
+		<file name="reagan.txt">1</file>
+	</word>
+	<word text="nation">
+		<file name="gettysburg.txt">15</file>
+		<file name="reagan.txt">1</file>
+	</word>
+	<word text="national">
+		<file name="reagan.txt">1</file>
+	</word>
+	<word text="never">
+		<file name="gettysburg.txt">3</file>
+		<file name="reagan.txt">2</file>
+	</word>
+	<word text="new">
+		<file name="gettysburg.txt">6</file>
+	</word>
+	<word text="nisi">
+		<file name="Lorem.txt">1</file>
+	</word>
+	<word text="nobly">
+		<file name="gettysburg.txt">3</file>
+	</word>
+	<word text="non">
+		<file name="Lorem.txt">1</file>
+	</word>
+	<word text="nor">
+		<file name="gettysburg.txt">3</file>
+	</word>
+	<word text="nostrud">
+		<file name="Lorem.txt">1</file>
+	</word>
+	<word text="not">
+		<file name="gettysburg.txt">15</file>
+	</word>
+	<word text="note">
+		<file name="gettysburg.txt">3</file>
+	</word>
+	<word text="nulla">
+		<file name="Lorem.txt">1</file>
+	</word>
+	<word text="occaecat">
+		<file name="Lorem.txt">1</file>
+	</word>
+	<word text="of">
+		<file name="gettysburg.txt">15</file>
+		<file name="reagan.txt">4</file>
+		<file name="test.txt">1</file>
+	</word>
+	<word text="officia">
+		<file name="Lorem.txt">1</file>
+	</word>
+	<word text="oh">
+		<file name="test2.txt">1</file>
+	</word>
+	<word text="old">
+		<file name="test3.txt">1</file>
+	</word>
+	<word text="on">
+		<file name="gettysburg.txt">6</file>
+		<file name="reagan.txt">1</file>
+	</word>
+	<word text="or">
+		<file name="gettysburg.txt">6</file>
+	</word>
+	<word text="other">
+		<file name="stuff.txt">1</file>
+	</word>
+	<word text="our">
+		<file name="gettysburg.txt">6</file>
+		<file name="reagan.txt">1</file>
+		<file name="test2.txt">1</file>
+	</word>
+	<word text="overcame">
+		<file name="reagan.txt">1</file>
+	</word>
+	<word text="pain">
+		<file name="reagan.txt">1</file>
+	</word>
+	<word text="pained">
+		<file name="reagan.txt">1</file>
+	</word>
+	<word text="pariatur">
+		<file name="Lorem.txt">1</file>
+	</word>
+	<word text="people">
+		<file name="gettysburg.txt">9</file>
+		<file name="reagan.txt">1</file>
+	</word>
+	<word text="perhaps">
+		<file name="reagan.txt">1</file>
+	</word>
+	<word text="perish">
+		<file name="gettysburg.txt">3</file>
+	</word>
+	<word text="place">
+		<file name="gettysburg.txt">3</file>
+	</word>
+	<word text="poor">
+		<file name="gettysburg.txt">3</file>
+	</word>
+	<word text="portion">
+		<file name="gettysburg.txt">3</file>
+	</word>
+	<word text="power">
+		<file name="gettysburg.txt">3</file>
+	</word>
+	<word text="proident">
+		<file name="Lorem.txt">1</file>
+	</word>
+	<word text="project">
+		<file name="test3.txt">1</file>
+		<file name="test2.txt">1</file>
+	</word>
+	<word text="proper">
+		<file name="gettysburg.txt">3</file>
+	</word>
+	<word text="proposition">
+		<file name="gettysburg.txt">3</file>
+	</word>
+	<word text="qui">
+		<file name="Lorem.txt">1</file>
+	</word>
+	<word text="quis">
+		<file name="Lorem.txt">1</file>
+	</word>
+	<word text="rather">
+		<file name="gettysburg.txt">6</file>
+	</word>
+	<word text="remaining">
+		<file name="gettysburg.txt">3</file>
+	</word>
+	<word text="remember">
+		<file name="gettysburg.txt">3</file>
+	</word>
+	<word text="remembering">
+		<file name="reagan.txt">1</file>
+	</word>
+	<word text="reprehenderit">
+		<file name="Lorem.txt">1</file>
+	</word>
+	<word text="resolve">
+		<file name="gettysburg.txt">3</file>
+	</word>
+	<word text="resting">
+		<file name="gettysburg.txt">3</file>
+	</word>
+	<word text="say">
+		<file name="gettysburg.txt">3</file>
+	</word>
+	<word text="score">
+		<file name="gettysburg.txt">3</file>
+	</word>
+	<word text="sed">
+		<file name="Lorem.txt">1</file>
+	</word>
+	<word text="sense">
+		<file name="gettysburg.txt">3</file>
+	</word>
+	<word text="seven">
+		<file name="gettysburg.txt">3</file>
+		<file name="reagan.txt">1</file>
+	</word>
+	<word text="shall">
+		<file name="gettysburg.txt">9</file>
+	</word>
+	<word text="share">
+		<file name="reagan.txt">1</file>
+	</word>
+	<word text="should">
+		<file name="gettysburg.txt">3</file>
+	</word>
+	<word text="shuttle">
+		<file name="reagan.txt">2</file>
+	</word>
+	<word text="sint">
+		<file name="Lorem.txt">1</file>
+	</word>
+	<word text="sit">
+		<file name="Lorem.txt">1</file>
+	</word>
+	<word text="so">
+		<file name="gettysburg.txt">9</file>
+	</word>
+	<word text="stevens">
+		<file name="abc.txt">1</file>
+	</word>
+	<word text="struggled">
+		<file name="gettysburg.txt">3</file>
+	</word>
+	<word text="stuff">
+		<file name="stuff.txt">1</file>
+	</word>
+	<word text="sunt">
+		<file name="Lorem.txt">1</file>
+	</word>
+	<word text="take">
+		<file name="gettysburg.txt">3</file>
+	</word>
+	<word text="task">
+		<file name="gettysburg.txt">3</file>
+	</word>
+	<word text="tempor">
+		<file name="Lorem.txt">1</file>
+	</word>
+	<word text="terrible">
+		<file name="reagan.txt">1</file>
+	</word>
+	<word text="test">
+		<file name="test2.txt">1</file>
+	</word>
+	<word text="testing">
+		<file name="gettysburg.txt">3</file>
+	</word>
+	<word text="text">
+		<file name="test3.txt">1</file>
+		<file name="test2.txt">1</file>
+	</word>
+	<word text="that">
+		<file name="gettysburg.txt">39</file>
+		<file name="stuff.txt">2</file>
+		<file name="test2.txt">1</file>
+	</word>
+	<word text="the">
+		<file name="gettysburg.txt">27</file>
+		<file name="reagan.txt">10</file>
+		<file name="test3.txt">1</file>
+	</word>
+	<word text="their">
+		<file name="gettysburg.txt">3</file>
+		<file name="reagan.txt">2</file>
+	</word>
+	<word text="them">
+		<file name="reagan.txt">1</file>
+	</word>
+	<word text="these">
+		<file name="gettysburg.txt">6</file>
+	</word>
+	<word text="they">
+		<file name="gettysburg.txt">9</file>
+		<file name="reagan.txt">1</file>
+	</word>
+	<word text="things">
+		<file name="stuff.txt">3</file>
+	</word>
+	<word text="third">
+		<file name="test3.txt">1</file>
+	</word>
+	<word text="this">
+		<file name="gettysburg.txt">12</file>
+		<file name="reagan.txt">2</file>
+		<file name="test.txt">1</file>
+		<file name="test3.txt">1</file>
+	</word>
+	<word text="those">
+		<file name="gettysburg.txt">3</file>
+	</word>
+	<word text="three">
+		<file name="reagan.txt">1</file>
+	</word>
+	<word text="thus">
+		<file name="gettysburg.txt">3</file>
+	</word>
+	<word text="to">
+		<file name="gettysburg.txt">24</file>
+		<file name="reagan.txt">2</file>
+	</word>
+	<word text="today">
+		<file name="abc.txt">1</file>
+	</word>
+	<word text="together">
+		<file name="reagan.txt">1</file>
+	</word>
+	<word text="took">
+		<file name="reagan.txt">1</file>
+	</word>
+	<word text="tragedy">
+		<file name="reagan.txt">2</file>
+	</word>
+	<word text="truly">
+		<file name="reagan.txt">1</file>
+	</word>
+	<word text="ullamco">
+		<file name="Lorem.txt">1</file>
+	</word>
+	<word text="under">
+		<file name="gettysburg.txt">3</file>
+	</word>
+	<word text="unfinished">
+		<file name="gettysburg.txt">3</file>
+	</word>
+	<word text="us">
+		<file name="gettysburg.txt">9</file>
+	</word>
+	<word text="use">
+		<file name="test2.txt">1</file>
+	</word>
+	<word text="ut">
+		<file name="Lorem.txt">2</file>
+	</word>
+	<word text="vain">
+		<file name="gettysburg.txt">3</file>
+	</word>
+	<word text="ve">
+		<file name="reagan.txt">3</file>
+	</word>
+	<word text="velit">
+		<file name="Lorem.txt">1</file>
+	</word>
+	<word text="veniam">
+		<file name="Lorem.txt">1</file>
+	</word>
+	<word text="voluptate">
+		<file name="Lorem.txt">1</file>
+	</word>
+	<word text="war">
+		<file name="gettysburg.txt">6</file>
+	</word>
+	<word text="we">
+		<file name="gettysburg.txt">24</file>
+		<file name="reagan.txt">4</file>
+		<file name="test2.txt">1</file>
+	</word>
+	<word text="were">
+		<file name="reagan.txt">1</file>
+	</word>
+	<word text="what">
+		<file name="gettysburg.txt">6</file>
+	</word>
+	<word text="whether">
+		<file name="gettysburg.txt">3</file>
+	</word>
+	<word text="which">
+		<file name="gettysburg.txt">6</file>
+	</word>
+	<word text="who">
+		<file name="gettysburg.txt">9</file>
+	</word>
+	<word text="will">
+		<file name="gettysburg.txt">3</file>
+	</word>
+	<word text="with">
+		<file name="reagan.txt">1</file>
+	</word>
+	<word text="words">
+		<file name="stuff.txt">1</file>
+	</word>
+	<word text="work">
+		<file name="gettysburg.txt">3</file>
+	</word>
+	<word text="world">
+		<file name="gettysburg.txt">3</file>
+	</word>
+	<word text="yeah">
+		<file name="stuff.txt">1</file>
+	</word>
+</fileIndex>
